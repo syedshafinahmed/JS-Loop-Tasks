@@ -4,4 +4,4 @@ let student = {
     city: 'Gaibandha',
     isStudent: true
 };
-console.log(Object.keys(student).length)
+console.log(Object.keys(student).length);
